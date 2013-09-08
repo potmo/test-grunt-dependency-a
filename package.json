@@ -1,6 +1,6 @@
 {
   "name": "test-grunt-dependency-a",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The first dependency",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "test-grunt-dependency-b": "git://github.com/potmo/test-grunt-dependency-b.git#master"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-bump": "0.0.11"
   }
 }
