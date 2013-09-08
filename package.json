@@ -1,6 +1,6 @@
 {
   "name": "test-grunt-dependency-a",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The first dependency",
   "main": "index.js",
   "scripts": {
