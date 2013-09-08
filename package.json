@@ -16,6 +16,6 @@
     "url": "https://github.com/potmo/test-grunt-dependency-a/issues"
   },
   "dependencies": {
-    "test-grunt-dependency-b": "0.0.0"
+    "test-grunt-dependency-b": "git://github.com/potmo/test-grunt-dependency-b.git#master"
   }
 }
